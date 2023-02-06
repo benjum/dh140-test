@@ -1,3 +1,3 @@
 # dh140-test
 
-## by Benjamin Winjum
+## by Benjamin Winj
